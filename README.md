@@ -18,7 +18,7 @@ This is an Event Management System designed to streamline the process of managin
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/Sudarshanganwani9/fiesta-central-system.git
+git clone https://github.com/Sudarshanganwani9/College-Event-management-system
 2. Navigate to the project directory:
 cd fiesta-central-system
 3. Install dependencies (for Node.js example):
